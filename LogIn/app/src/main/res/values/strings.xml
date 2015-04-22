@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">LogIn</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="pistaUsuario">Ingrese Usuario</string>
+    <string name="pistaPassword">Ingrese Password</string>
+    <string name="botonIngresar">Ingresar</string>
+
+    <string name="inicio">Inicio</string>
+
+</resources>
